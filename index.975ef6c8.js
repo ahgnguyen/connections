@@ -46235,18 +46235,7 @@ const CONNECTION_GAMES = [
                 "Red"
             ],
             difficulty: 1,
-            imageSrc: "https://imgur.com/a/0VHrFxj"
-        },
-        {
-            category: 'Words Starting With "Le___"',
-            words: [
-                "Sserafim",
-                "Vain",
-                "Bron",
-                "Mon"
-            ],
-            difficulty: 2,
-            imageSrc: "https://imgur.com/a/KhuLqWP"
+            imageSrc: "https://i.imgur.com/oNl86BJ.png"
         },
         {
             category: "Athletes With Food Names",
@@ -46257,7 +46246,7 @@ const CONNECTION_GAMES = [
                 "Lamb"
             ],
             difficulty: 3,
-            imageSrc: "https://imgur.com/a/KgRyvaS"
+            imageSrc: "https://i.imgur.com/f0kozJT.png"
         },
         {
             category: "Hot ___",
@@ -46268,7 +46257,18 @@ const CONNECTION_GAMES = [
                 "Swap"
             ],
             difficulty: 4,
-            imageSrc: "https://imgur.com/a/ilIqSiK"
+            imageSrc: "https://i.imgur.com/vjr3fyj.png"
+        },
+        {
+            category: "Words Starting With Le___",
+            words: [
+                "Sserafim",
+                "Vain",
+                "Bron",
+                "Mon"
+            ],
+            difficulty: 2,
+            imageSrc: "https://i.imgur.com/SBHbLBh.png"
         }
     ]
 ];
