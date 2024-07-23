@@ -19,7 +19,7 @@ export const CONNECTION_GAMES = [
       imageSrc: "https://i.imgur.com/vjr3fyj.png",
     },
     {
-      category: "Words Starting With Le___",
+      category: "Starting With Le___",
       words: ["Sserafim", "Vain", "Bron", "Mon"],
       difficulty: 2,
       imageSrc: "https://i.imgur.com/SBHbLBh.png",
