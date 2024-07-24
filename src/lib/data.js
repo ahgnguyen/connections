@@ -7,12 +7,6 @@ export const CONNECTION_GAMES = [
       imageSrc: "https://i.imgur.com/oNl86BJ.png",
     },
     {
-      category: "Athletes With Food Names",
-      words: ["Plum", "Curry", "Mayo", "Lamb"],
-      difficulty: 3,
-      imageSrc: "https://i.imgur.com/f0kozJT.png",
-    },
-    {
       category: "Hot ___",
       words: ["Pot", "Ones", "Pocket", "Swap"],
       difficulty: 4,
@@ -23,6 +17,12 @@ export const CONNECTION_GAMES = [
       words: ["Sserafim", "Vain", "Bron", "Mon"],
       difficulty: 2,
       imageSrc: "https://i.imgur.com/SBHbLBh.png",
+    },
+    {
+      category: "Athletes With Food Names",
+      words: ["Plum", "Curry", "Ham", "Rice"],
+      difficulty: 3,
+      imageSrc: "https://i.imgur.com/SV8pKCj.png",
     },
   ]
 ];
