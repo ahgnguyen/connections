@@ -54,14 +54,14 @@ function InfoModal() {
               <AccordionTrigger>Who are we?</AccordionTrigger>
               <AccordionContent>
                 If you're playing this, we'd hope you know who we are. 
-                But we're Anna and Joseph and we're getting married today!
+                But we're Vivian and Alec and we're getting married today!
               </AccordionContent>
             </AccordionItem>
             <AccordionItem value="item-2">
               <AccordionTrigger>Why'd you make this game?</AccordionTrigger>
               <AccordionContent>
-                We often call during the day to play Connections as a little break from work.
-                We also like other games like Immaculate Grid and Poeltl.
+                Because it's fun. 
+                We also like other games like VALORANT and watching The Bachelorette.
               </AccordionContent>
             </AccordionItem>
           </Accordion>

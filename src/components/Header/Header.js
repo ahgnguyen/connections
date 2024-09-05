@@ -5,7 +5,7 @@ import InfoModal from "../modals/InfoModal";
 function Header() {
   return (
     <header>
-      <h1 className="font-space-mono">Anna and Joseph Connections</h1>
+      <h1 className="font-space-mono">Vivian and Alec Connections</h1>
       <InfoModal />
     </header>
   );

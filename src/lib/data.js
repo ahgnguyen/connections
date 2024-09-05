@@ -1,27 +1,27 @@
 export const CONNECTION_GAMES = [
   [
     {
-      category: "Mascots",
-      words: ["Husky", "Viking", "Matador", "Red"],
+      category: "Types of football backs",
+      words: ["Quarter", "Line", "Corner", "Full"],
       difficulty: 1,
       imageSrc: "https://i.imgur.com/oNl86BJ.png",
     },
     {
-      category: "Hot ___",
-      words: ["Pot", "Ones", "Pocket", "Swap"],
-      difficulty: 4,
-      imageSrc: "https://i.imgur.com/vjr3fyj.png",
-    },
-    {
-      category: "Starting With Le___",
-      words: ["Sserafim", "Vain", "Bron", "Mon"],
+      category: "First word of Seattle/NY attractions",
+      words: ["Grand", "Empire", "Pike", "Space"],
       difficulty: 2,
       imageSrc: "https://i.imgur.com/SBHbLBh.png",
     },
     {
-      category: "Athletes With Food Names",
-      words: ["Plum", "Curry", "Ham", "Rice"],
+      category: "Types of baseball pitches",
+      words: ["Cutter", "Screw", "Knuckle", "Change"],
       difficulty: 3,
+      imageSrc: "https://i.imgur.com/vjr3fyj.png",
+    },
+    {
+      category: "Twelve Days of Christmas gifts",
+      words: ["Goose", "Swan", "Piper", "Drummer"],
+      difficulty: 4,
       imageSrc: "https://i.imgur.com/SV8pKCj.png",
     },
   ]
